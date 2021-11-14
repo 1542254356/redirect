@@ -1,2 +1,2 @@
 # redirect
-github用户名已被改变，请访问  https://github.com/philhuan
+github用户名已修改，请访问  [https://github.com/philhuan](https://github.com/philhuan)
